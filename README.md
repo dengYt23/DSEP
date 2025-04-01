@@ -57,6 +57,10 @@ conda install -c dglteam/label/th21_cu121 dgl
 
 ## How to Run
 
+```bash
+unzip data
+```
+
 ### Prepare PLM
 The following is an example of the file content format that needs to be configured in the `plm` folder to use PLM:
 
