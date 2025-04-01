@@ -1,0 +1,7 @@
+tqdm
+pandas
+rdflib
+scipy
+torchdata
+pydantic
+transformers==4.40.1
