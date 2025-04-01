@@ -2,7 +2,6 @@
 
 <div style="text-align: center;">
     <img src="img/model.png" alt="DSEP Architecture" width="800" class="center">
-    <p>DSEP model architecture.</p>
 </div>
 
 This repository contains the code for DSEP (Diachronic Semantic Encoding Based on Pre-trained Language Model for Temporal Knowledge Graph Reasoning), a model designed to use pre-trained language models (PLMs) for temporal knowledge graph reasoning. DSEP can be used to handle entity and relation prediction tasks in temporal knowledge graphs.
@@ -27,7 +26,7 @@ cd to DSEP directory
 pip install -r requirements.txt
 ```
 
-`torch`, `torchvision` and `dgl` require specific matching `CUDA Version` installed on your system to ensure compatibility.
+`torch` and `dgl` require specific matching `CUDA Version` installed on your system to ensure compatibility.
 
 ## Example
 
@@ -58,7 +57,7 @@ conda install -c dglteam/label/th21_cu121 dgl
 ## How to Run
 
 ```bash
-unzip data
+unzip data.zip
 ```
 
 ### Prepare PLM
