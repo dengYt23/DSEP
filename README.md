@@ -4,7 +4,7 @@
     <img src="img/model.png" alt="DSEP Architecture" width="800" class="center">
 </div>
 
-This repository contains the code for DSEP (Diachronic Semantic Encoding Based on Pre-trained Language Model for Temporal Knowledge Graph Reasoning), a model designed to use pre-trained language models (PLMs) for temporal knowledge graph reasoning. DSEP can be used to handle entity and relation prediction tasks in temporal knowledge graphs.
+This repository contains the code for DSEP (Diachronic Semantic Encoding Based on Pre-trained Language Model for Temporal Knowledge Graph Reasoning)[https://doi.org/10.1016/j.knosys.2025.113479], a model designed to use pre-trained language models (PLMs) for temporal knowledge graph reasoning. DSEP can be used to handle entity and relation prediction tasks in temporal knowledge graphs.
 
 
 ## Installation
