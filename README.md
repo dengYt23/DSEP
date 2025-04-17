@@ -143,3 +143,19 @@ python main.py -d GDELT --model-type bert --plm bert-large-cased --gpu 0 --num-k
 ## Acknowledge
 
 Some of our code is referenced from RE-GCN: [https://github.com/Lee-zix/RE-GCN](https://github.com/Lee-zix/RE-GCN) and TiRGN:[https://github.com/Liyyy2122/TiRGN](https://github.com/Liyyy2122/TiRGN).
+
+## Cite
+Please cite our paper if you find this code useful for your research.
+~~~
+@article{DENG2025113479,
+title = {Diachronic semantic encoding based on pre-trained language model for temporal knowledge graph reasoning},
+journal = {Knowledge-Based Systems},
+volume = {318},
+pages = {113479},
+year = {2025},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2025.113479},
+url = {https://www.sciencedirect.com/science/article/pii/S0950705125005258},
+author = {Yunteng Deng and Jia Song and Zhongliang Yang and Yilin Long and Li Zeng and Linna Zhou},
+}
+~~~
